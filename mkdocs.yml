@@ -4,7 +4,7 @@ site_author: FerociousKyle
 # Configuration
 theme:
   name: null
-  custom_dir: mkdocs-material-insiders/material
+  custom_dir: mkdocs-material/material
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
