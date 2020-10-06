@@ -7,11 +7,17 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Checkout mkdocs-material-insiders
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: squidfunk/mkdocs-material-insiders
+          path: mkdocs-material
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: git clone https://${GH_TOKEN}@github.com:squidfunk/mkdocs-material-insiders.git mkdocs-material
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
 env:
