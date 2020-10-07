@@ -3,7 +3,7 @@
 The store is a major part of new and old players. It will be your main source for gaining coins for a while, and also getting starting equipment/seeds for new users.
 
 !!! danger
-  Some of these commands take more than one argument. Please make sure you give all arguments!
+    Some of these commands take more than one argument. Please make sure you give all arguments!
 
 ## Commands
 
