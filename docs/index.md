@@ -7,7 +7,7 @@ Welcome! You've added our bot (or just looking for more information on our bot) 
 
 ## Sponsorship
 
-We will have paid teirs of our bot in the future. We will make sure everyone is aware of the tiers when they become available. If you want to support us before then, add one of us on Discord, and we can give you our links for support!
+We will have paid tiers of our bot in the future. We will make sure everyone is aware of the tiers when they become available. If you want to support us before then, add one of us on Discord, and we can give you our links for support!
 
 ## Developers
 
@@ -16,7 +16,7 @@ We love our devs, and they worked hard to make this possible. If you loved the b
 | Developer      | Link                          |
 | :---------: | :----------------------------------: |
 | `Maku`       | :mdiGithub: [Github](https://github.com/makupi) |
-| `Dayna`       | :mdiGithub: [Github](https://github.com/TheCatster) |
+| `Danya`       | :mdiGithub: [Github](https://github.com/TheCatster) |
 | `HRAND5`    | :mdiGithub: [Github](https://github.com/HRAND5) |
 | `FerociousKyle`    | :mdiGithub: [Github](https://github.com/ferociouskyle) |
 
