@@ -1,4 +1,4 @@
-## Adventure Commands
+## Adventure Information
 
 Adventures are a `COMING SOON` feature. We are finishing up the normal bot first before we start adding more to our plates! However we do have many great things planned for Adventures. Below is a checklist of what we plan on doing. 
 
