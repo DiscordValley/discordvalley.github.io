@@ -1,6 +1,6 @@
-## Store Commands
+# Store Commands
 
-The store is a major part of new and old players. It will be your main source for gaining coins for a while, and also getting starting equipment/seeds for new users.
+The store is vital to your success. It is your main source of income, and getting seeds, equipment, and more
 
 !!! danger
     Some of these commands take more than one argument. Please make sure you give all arguments!
@@ -9,7 +9,7 @@ The store is a major part of new and old players. It will be your main source fo
 
 | Command      | Description                          |
 | :---------: | :----------------------------------: |
-| `store`       | `store` will show the user whats available to buy. There will be multiple pages, so make sure you look at all pages!|
-| `store desc [item name]`       | This will show the user details about an item. There will be details here that are not shown on the normal store command, such as `modifier`, `durability`, and `description`. |
-| `store sell [item name] [quantity]`    | Sell command takes the `item name` supplied, with `quantity`, and take the item from your inventory. If you don't have the item in your inventory, this command will not work. If you want to sell all of your given item, supply the command with `all` in the quantity. |
-| `store buy [item name] [quantity]`    | Buy command works similarly as the sell command, but instead of selling, you are taking in an item available in the store. |
+| `store`       | `store` shows you what's for sale today. Make sure to look at all pages!|
+| `store desc <item name>`       | This shows you details about an item. Extra details are shown here that are not shown on the normal store command, such as `modifier`, `durability`, and `description`. |
+| `store sell <item name> <quantity>`    | The item and quantity specified are sold. If you don't have the item in your inventory, this command will not work, and if you want to sell all of your given item, supply the command with `all` in the quantity. |
+| `store buy <item name> <quantity>`    | The buy command is quite similar to sell. The same conditions apply for modifiers, but you cannot buy all of the store's stock. |
