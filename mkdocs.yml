@@ -31,9 +31,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: assets/TV-01.svg
   icon:
-    logo: logo
+    logo: assets/TV-01.svg
 
 # Plugins
 plugins:
